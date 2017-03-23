@@ -23,6 +23,10 @@
 19:29 nikado : (ひとりでレビューしてもいいけど。accelmail は普段一人レビューばっかりだったし
 19:32 adachi : レビュアーってどこで設定できるんでしょう
 19:36 nikado : pull request ボタンを押したあとに reviewerってところないでしょうか。
+19:43 adachi : 選択肢出ないけど、何か設定必要なのかな、、、
+19:49 nikado : リポジトリのSettingsにCollaboratorsというのがあるので、そこに足せばいけるはず
+19:57 adachi : あ、追加できました
+19:57 isono : マージされた
 </pre>
 =======
 
